@@ -5,8 +5,8 @@ Project based on associations between different Rails models
 ## Built With
 
 - Ruby
-- Ruby on Rails
-- VSCode
+- Ruby on Rails 
+- VSCode 
 - Linters 
 
 ## What it does?
